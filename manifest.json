@@ -9,10 +9,8 @@
     "forms": {
         "contact": "???"
     },
-    "slideshows": {
-        "home": "???"
-    },
     "blogs": {
-        "main": "*"
-    } 
+        "main": "blog"
+    } ,
+    "footer": "Footer.md"
 }

@@ -1,0 +1,22 @@
+{
+    "title": "Name",
+    "slides": [
+        {
+            "height": "50vh",
+            "background": {
+                "color": "#FFFFFF",
+                "image": "",
+                "images": [],
+                "video": ""
+            },
+            "gutters": false,
+            "columns": [
+                {
+                    "width": "auto",
+                    "content": "",
+                    "backgroundColor": "rgba(255,255,255,.5)"
+                }
+            ]
+        }
+    ]
+}

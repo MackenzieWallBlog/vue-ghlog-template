@@ -1,3 +1,0 @@
-# Blog
-
-[blog-main]

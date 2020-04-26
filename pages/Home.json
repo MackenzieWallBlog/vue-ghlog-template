@@ -1,0 +1,41 @@
+{
+    "title": "Name",
+    "slides": [
+        {
+            "height": "50vh",
+            "background": {
+                "color": "#EEEEEE",
+                "image": "/images/home.jpg",
+                "images": [],
+                "video": ""
+            },
+            "columns": [
+                {
+                    "content": "Home.md",
+                    "backgroundColor": "rgba(255,255,255,.5)"
+                }
+            ]
+        },{
+            "height": "30vh",
+            "gutters": true,
+            "background": {
+                "color": "#FFFFFF",
+                "image": "/images/home.jpg",
+                "images": [],
+                "video": ""
+            },
+            "columns": [
+                {
+                    "content": "Home-fold-1.md",
+                    "backgroundColor": "rgba(255,255,255,.5)"
+                },{
+                    "content": "Home-fold-2.md",
+                    "backgroundColor": "rgba(255,255,255,.5)"
+                },{
+                    "content": "Home-fold-3.md",
+                    "backgroundColor": "rgba(255,255,255,.5)"
+                }
+            ]
+        }
+    ]
+}
