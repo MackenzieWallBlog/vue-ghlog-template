@@ -1,16 +1,28 @@
 {
-    "name": "Website Name",
-    "navigation": [
-        { "name": "Home", "url": "/" },
-        { "name": "About", "url": "/about" },
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Contact", "url": "/contact" }
+    "title": "A Starter Blog",
+    "pages": [
+        "pages/about.md"
     ],
-    "forms": {
-        "contact": "???"
-    },
-    "blogs": {
-        "main": "blog"
-    } ,
-    "footer": "Footer.md"
+    "navbar": {
+        "start": [
+        {
+            "text": "Home",
+            "link": "/",
+            "icon": "",
+            "class": ""
+        },{
+            "text": "About",
+            "link": "/about",
+            "icon": "",
+            "class": ""
+        } ],
+        "end": [
+            {
+                "text": "",
+                "link": "https://github.com/mackenziewall/bloggy-template",
+                "icon": "github",
+                "class": "social "
+            }
+        ]
+    }
 }
