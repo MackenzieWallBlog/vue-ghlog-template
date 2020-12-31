@@ -12,7 +12,7 @@
             "class": ""
         },{
             "text": "About",
-            "link": "#about",
+            "link": "/about",
             "icon": "",
             "class": ""
         } ],
