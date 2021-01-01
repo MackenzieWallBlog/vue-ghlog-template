@@ -17,6 +17,11 @@
             "link": "/content/About",
             "icon": "",
             "class": ""
+        },{
+            "text": "3D Beginner’s Guide",
+            "link": "/blog/PrintingGuide",
+            "icon": "",
+            "class": ""
         } ],
         "end": [
             {
