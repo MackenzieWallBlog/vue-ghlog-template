@@ -1,8 +1,5 @@
 {
-    "title": "A Starter Blog",
-    "pages": [
-        "pages/about.md"
-    ],
+    "title": "Mackenzie Wall",
     "navbar": {
         "start": [
         {
@@ -11,8 +8,8 @@
             "icon": "",
             "class": ""
         },{
-            "text": "Travel",
-            "link": "/all/travel",
+            "text": "Code",
+            "link": "/all/code",
             "icon": "",
             "class": ""
         },{
@@ -24,7 +21,12 @@
         "end": [
             {
                 "text": "",
-                "link": "https://github.com/mackenziewall/bloggy-template",
+                "link": "https://www.linkedin.com/in/mackenzie-wall-44979332/",
+                "icon": "linkedin-in",
+                "class": "social "
+            },{
+                "text": "",
+                "link": "https://github.com/mackenziewall",
                 "icon": "github",
                 "class": "social "
             }
