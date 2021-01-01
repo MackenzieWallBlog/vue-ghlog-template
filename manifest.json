@@ -11,6 +11,11 @@
             "icon": "",
             "class": ""
         },{
+            "text": "Travel",
+            "link": "/all/travel",
+            "icon": "",
+            "class": ""
+        },{
             "text": "About",
             "link": "/content/About",
             "icon": "",
