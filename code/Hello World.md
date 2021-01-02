@@ -1,6 +1,6 @@
 Hello World. :)
 
-This website is an attempt at a fully in-the-cloud development stack. The FE code is on codepen, in a project that can be deployed. The intent is to put cloudflare in front of it for SSL cert and caching. The content is in github, it is a bit backawards to have the *content* be under version control, but not the page! I hope codepen offers github/bitbucket integration in the future. I lost some work because I opened an old tab that overrode work I had done since!
+This website is an attempt at a fully in-the-cloud development stack. The FE code is on codepen, in a project that can be deployed. The intent is to put cloudflare in front of it for SSL cert and caching. The content is in github, it is a bit backwards to have the *content* be under version control, but not the page! I hope codepen offers github/bitbucket integration in the future. I lost some work because I opened an old tab that overrode work I had done since!
 
 This stack is fully in the cloud- no npm install, can edit the code as easy as the posts from anywhere. No databases to maintain. You can tell I thought of this project before the pandemic started, and I am stuck at home anyway! Oh well, it was fun to mess around.
 
