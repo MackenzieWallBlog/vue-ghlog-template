@@ -13,6 +13,11 @@
             "icon": "",
             "class": ""
         },{
+            "text": "Random",
+            "link": "/all/random",
+            "icon": "",
+            "class": ""
+        },{
             "text": "About",
             "link": "/content/About",
             "icon": "",
