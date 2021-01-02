@@ -33,12 +33,14 @@
                 "text": "",
                 "link": "https://www.linkedin.com/in/mackenzie-wall-44979332/",
                 "icon": "linkedin-in",
-                "class": "social "
+                "class": "social ",
+                "external": true
             },{
                 "text": "",
                 "link": "https://github.com/mackenziewall",
                 "icon": "github",
-                "class": "social "
+                "class": "social ",
+                "external": true
             }
         ]
     }
