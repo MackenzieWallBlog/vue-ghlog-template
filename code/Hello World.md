@@ -10,4 +10,4 @@ One snag I ran into that I would like to resolve next is the index.json file- ri
 
 I picture the final workflow to be **just** adding a new file in github. A simple little CI job that creates that index would get it there. I really expected that to be built into jsdeliver. It kind of is built into github, but I tried to avoid directly calling github, though it probably is cached. I could also parse the human-readable index page jsdelivr gives, but that would be insane. 
 
-
+The github API does have an index, but it would be n + 1 requests per load. I think CI index file would still be the most elegant solution.
