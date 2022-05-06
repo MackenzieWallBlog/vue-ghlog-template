@@ -1,7 +1,9 @@
+# Review Lenses
+
 When you come to review a merge request, there are a lot of things to check for, and it is difficult to keep them in your working memory all at the
 same time.
 
-These are also great ways to double check your own work before submitting your MR for others to review.
+These are also great ways to double check your own work before submitting your MR for others to review, and ways to think about other's code you are reviewing.
 
 ## The Prompt Lens
 Does this actually address the ticket? There are plenty of times a ticket is misunderstood, it is great to get a double check. 
@@ -56,15 +58,13 @@ It is especially easy to leave these in the html. This one trips me up the most!
 
 ## The Adversarial Lens
 Pretend for a moment it is your coworkers mission to put a memory leak into the code and break the program. Sometimes too much team trust can
-let memory leaks or other issues sneak past a code review. Team trust is great- outside of the code review process.
+let memory leaks or other issues sneak past a code review. Team trust is great- outside of the code review process. This lens is inspired by a certain jr developer I had the pleasure of working with. 
 
 ## The Test Lens
 Are there unit tests? Well, maybe there should be!
 
 
-
-
 These are the ones I came up with, but feel free to use and add your own! 
 
 
-Another trick I like to do is add lines in git one at a time instead of by file. Usually in VS Code or GiTKraken. This way, I am reviewing it a little more and being slightly more precious with what makes it into the reivew. Anything you can catch on your own saves your coworkers' valuable time, and lets them focus on the things you can't find!
+Another trick I like to do is add lines in git one at a time instead of by file. Usually in VS Code or GitKraken. This way, I am reviewing it a little more and being slightly more precious with what makes it into the reivew. Anything you can catch on your own saves your coworkers' valuable time, and lets them focus on the things you can't find!
