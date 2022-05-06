@@ -54,8 +54,12 @@ Was this code added to test something? Hardcoded values, debug statements, conso
 statements accidentally commits them. One good tip is tagging your console logs with something easy to search that will jump out at the reviewer.
 It is especially easy to leave these in the html. This one trips me up the most! :)
 
-##The Adversarial Lens
+## The Adversarial Lens
 Pretend for a moment it is your coworkers mission to put a memory leak into the code and break the program. Sometimes too much team trust can
 let memory leaks or other issues sneak past a code review. Team trust is great- outside of the code review process.
-The Test Lens
+
+## The Test Lens
 Are there unit tests? Well, maybe there should be!
+
+
+Don't feel limited to these- 
