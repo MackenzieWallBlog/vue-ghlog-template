@@ -62,4 +62,9 @@ let memory leaks or other issues sneak past a code review. Team trust is great- 
 Are there unit tests? Well, maybe there should be!
 
 
-Don't feel limited to these- 
+
+
+These are the ones I came up with, but feel free to use and add your own! 
+
+
+Another trick I like to do is add lines in git one at a time instead of by file. Usually in VS Code or GiTKraken. This way, I am reviewing it a little more and being slightly more precious with what makes it into the reivew. Anything you can catch on your own saves your coworkers' valuable time, and lets them focus on the things you can't find!
