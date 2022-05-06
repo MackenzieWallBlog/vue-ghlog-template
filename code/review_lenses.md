@@ -6,6 +6,7 @@ These are also great ways to double check your own work before submitting your M
 ##The Prompt Lens
 Does this actually address the ticket? There are plenty of times a ticket is misunderstood, it is great to get a double check. 
 The more info you have, the better your review will be.
+
 ##The Architecture Lens
 Take a step back: Would you approach this problem differently at the highest level? Does the data flow make sense? Will updates have expected
 behavior? Is there a synchronous call to redux for something that may need updates? What are the inputs and outputs? When will it change?
